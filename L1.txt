@@ -30,3 +30,13 @@
 *://blog.csdn.net/*
 # 梅州：克隆、低质
 *://www.bkwk.cn/*
+# 下载站
+*://*.uptodown.com/*
+*://*.filehippo.com/*
+*://*.filecr.com/*
+*://*.fileplanet.com/*
+*://*.softpedia.com/*
+*://*.softonic.kr/*
+*://*.softonic.com/*
+*://*.lo4d.com/*
+*://*.apponic.com/*
