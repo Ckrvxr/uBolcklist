@@ -26,10 +26,14 @@
 *://v2cfw.com/*
 *://v2raywin.com/*
 
-# CSDN：抄袭、克隆、低质、复制限制
-*://blog.csdn.net/*
-# 梅州：克隆、低质
+# AI生成、抄袭、克隆、低质
+*://*.elegantthemes.com/*
+*://*.integraudio.com/*
+*://*.safetydetectives.com/*
+*://*.vpnmentor.com/*
+*://*.wizcase.com/*
 *://www.bkwk.cn/*
+
 # 下载站
 *://*.uptodown.com/*
 *://*.filehippo.com/*
