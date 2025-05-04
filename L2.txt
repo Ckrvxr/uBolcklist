@@ -8,3 +8,5 @@
 *://wapbaike.baidu.com/*
 # 搜狐网：抄袭、低质
 *://www.sohu.com/*
+# CSDN：抄袭、克隆、低质、复制限制
+*://blog.csdn.net/*
